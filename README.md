@@ -21,3 +21,7 @@ Issued: <strong>Dec 2025</strong><br />
 Issued: <strong>Sep 2024</strong><br />
 <br />
 <br clear="left" />
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=D-Kniec&theme=transparent&hide_border=true&ring=0078D4&fire=0078D4&currStreakLabel=0078D4" height="165" alt="GitHub Streak" />
+</div>
